@@ -1,4 +1,4 @@
-FROM Ml10l/shahm:slim-buster
+FROM lMl10l/shahm:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/lMl10l/shahm /root/shahm.py
