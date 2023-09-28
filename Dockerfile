@@ -1,7 +1,7 @@
 FROM lml10l/shahm:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/lMl10l/shahm /root/shahm.py
+RUN git clone https://github.com/lml10l/shahm /root/shahm.py
 #working directory 
 WORKDIR /root/shahm.py
 
